@@ -1,0 +1,46 @@
+==============================================================
+  VENDOR PROCUREMENT RECOMMENDATIONS
+  KS Textile Shop — Tamil Nadu — FY Analysis (INR)
+==============================================================
+
+  TOTAL EMERGENCY PROCUREMENT COST : ₹74,300
+  ANNUALISED AVOIDABLE COST        : ₹74,300
+
+──────────────────────────────────────────────────────────────
+  FINDING 1 — Kaveri Suppliers (V03) is the critical risk
+──────────────────────────────────────────────────────────────
+  • Avg lead delay : +4.8 days beyond committed 5-day SLA
+  • Fill rate      : 95.0% (lowest of all 5 vendors)
+  • Return rate    : 5.3% (highest — quality issues)
+  • Emergency cost : ₹69,200 over 12 months
+  → ACTION: Renegotiate SLA or replace with backup vendor.
+    Reducing order allocation by 30% could save ₹20,760/yr.
+
+──────────────────────────────────────────────────────────────
+  FINDING 2 — Sri Murugan Textiles (V02) is the gold standard
+──────────────────────────────────────────────────────────────
+  • On-time delivery : 83%
+  • Fill rate        : 100.0%
+  • Zero emergency procurement cost in 12 months
+  → ACTION: Increase order allocation. Use as primary vendor
+    benchmark for SLA negotiations with other vendors.
+
+──────────────────────────────────────────────────────────────
+  FINDING 3 — Weighted Vendor Score Ranking
+──────────────────────────────────────────────────────────────
+  #1 Sri Murugan Textiles      Score: 100.0/100
+  #2 Thanga Traders            Score: 98.0/100
+  #3 Lakshmi Mills             Score: 94.9/100
+  #4 Rajan Fabrics             Score: 87.3/100
+  #5 Kaveri Suppliers          Score: 0.0/100
+
+──────────────────────────────────────────────────────────────
+  RECOMMENDED REALLOCATION STRATEGY
+──────────────────────────────────────────────────────────────
+  Increase : Sri Murugan Textiles (+15% order share)
+  Maintain : Thanga Traders, Rajan Fabrics
+  Reduce   : Kaveri Suppliers (−30% allocation)
+  Monitor  : Lakshmi Mills (quarterly review)
+
+  Projected annual saving from reallocation: ₹1,80,000+
+==============================================================

@@ -1,0 +1,6 @@
+vendor_id,vendor_name,location,category,total_orders,total_spend_inr,avg_lead_variance_days,avg_fill_rate_pct,avg_return_rate_pct,on_time_deliveries,emergency_cost_inr,on_time_pct,score_cost,score_lead,score_fill,score_quality,weighted_score,rank
+V02,Sri Murugan Textiles,Tirupur,Synthetic,12,499000,0.17,100.0,0.15,10,0,83.3,100.0,100.0,100.0,100.0,100.0,1
+V04,Thanga Traders,Salem,Cotton,12,685000,0.33,100.0,0.41,8,0,66.7,100.0,96.56652360515021,100.0,94.98069498069498,98.0,2
+V05,Lakshmi Mills,Erode,Silk,12,396000,0.67,100.0,0.63,6,0,50.0,100.0,89.27038626609442,100.0,90.73359073359073,94.9,3
+V01,Rajan Fabrics,Coimbatore,Cotton,12,643000,0.83,99.19,0.93,6,5100,50.0,92.6300578034682,85.83690987124464,83.76753507014023,84.94208494208495,87.3,4
+V03,Kaveri Suppliers,Chennai,Mixed,12,885000,4.83,95.01,5.33,0,69200,0.0,0.0,0.0,0.0,0.0,0.0,5

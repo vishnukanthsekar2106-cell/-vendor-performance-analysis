@@ -1,0 +1,61 @@
+month,vendor_name,avg_lead_variance,fill_rate,emergency_inr
+1,Kaveri Suppliers,3.0,95.0,4500
+1,Lakshmi Mills,1.0,100.0,0
+1,Rajan Fabrics,0.0,98.0,0
+1,Sri Murugan Textiles,0.0,100.0,0
+1,Thanga Traders,0.0,100.0,0
+2,Kaveri Suppliers,4.0,94.7,5200
+2,Lakshmi Mills,0.0,100.0,0
+2,Rajan Fabrics,1.0,100.0,0
+2,Sri Murugan Textiles,0.0,100.0,0
+2,Thanga Traders,0.0,100.0,0
+3,Kaveri Suppliers,2.0,95.81,3800
+3,Lakshmi Mills,1.0,100.0,0
+3,Rajan Fabrics,0.0,100.0,0
+3,Sri Murugan Textiles,0.0,100.0,0
+3,Thanga Traders,1.0,100.0,0
+4,Kaveri Suppliers,7.0,94.94,8500
+4,Lakshmi Mills,0.0,100.0,0
+4,Rajan Fabrics,2.0,96.3,1200
+4,Sri Murugan Textiles,1.0,100.0,0
+4,Thanga Traders,0.0,100.0,0
+5,Kaveri Suppliers,5.0,94.84,6200
+5,Lakshmi Mills,2.0,100.0,0
+5,Rajan Fabrics,0.0,100.0,0
+5,Sri Murugan Textiles,0.0,100.0,0
+5,Thanga Traders,0.0,100.0,0
+6,Kaveri Suppliers,4.0,95.15,4900
+6,Lakshmi Mills,0.0,100.0,0
+6,Rajan Fabrics,1.0,100.0,0
+6,Sri Murugan Textiles,0.0,100.0,0
+6,Thanga Traders,1.0,100.0,0
+7,Kaveri Suppliers,3.0,94.77,3600
+7,Lakshmi Mills,1.0,100.0,0
+7,Rajan Fabrics,0.0,97.66,0
+7,Sri Murugan Textiles,0.0,100.0,0
+7,Thanga Traders,0.0,100.0,0
+8,Kaveri Suppliers,9.0,94.8,9100
+8,Lakshmi Mills,0.0,100.0,0
+8,Rajan Fabrics,3.0,100.0,2100
+8,Sri Murugan Textiles,0.0,100.0,0
+8,Thanga Traders,0.0,100.0,0
+9,Kaveri Suppliers,6.0,95.06,5800
+9,Lakshmi Mills,2.0,100.0,0
+9,Rajan Fabrics,0.0,100.0,0
+9,Sri Murugan Textiles,0.0,100.0,0
+9,Thanga Traders,1.0,100.0,0
+10,Kaveri Suppliers,4.0,94.94,4700
+10,Lakshmi Mills,0.0,100.0,0
+10,Rajan Fabrics,1.0,100.0,0
+10,Sri Murugan Textiles,1.0,100.0,0
+10,Thanga Traders,0.0,100.0,0
+11,Kaveri Suppliers,3.0,95.27,5100
+11,Lakshmi Mills,1.0,100.0,0
+11,Rajan Fabrics,0.0,98.33,0
+11,Sri Murugan Textiles,0.0,100.0,0
+11,Thanga Traders,0.0,100.0,0
+12,Kaveri Suppliers,8.0,94.86,7800
+12,Lakshmi Mills,0.0,100.0,0
+12,Rajan Fabrics,2.0,100.0,1800
+12,Sri Murugan Textiles,0.0,100.0,0
+12,Thanga Traders,1.0,100.0,0
